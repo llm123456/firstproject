@@ -8,7 +8,7 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 >>>>>>> feature1
 <<<<<<< Updated upstream
-Git is a free software.
+Git is a big free software.
 =======
 git is free software.
 >>>>>>> Stashed changes
